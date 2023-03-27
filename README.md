@@ -1,5 +1,5 @@
 # 🤖 Transformer-Based Language Models (Input Talk @ Method Bits, MZES, UMannheim)
-Welcome to the transformer-based Language Models (LM) talk! You can find the slides for the talk here [![Google Slides](https://img.shields.io/badge/Google%20Slides-blue?logo=google-slides)](https://docs.google.com/presentation/d/1py8jRKvNZXCrCCwtAtwgewMHEDM7d1iKI7E4cA_sgt0/edit?usp=sharing). In this talk, we will explore the power of transformer-based LMs and how they can be used for various research tasks.
+Welcome to the transformer-based Language Models (LM) talk! You can find the slides for the talk here [![Google Slides](https://img.shields.io/badge/Slides-yellow?logo=google-slides)](https://docs.google.com/presentation/d/1py8jRKvNZXCrCCwtAtwgewMHEDM7d1iKI7E4cA_sgt0/edit?usp=sharing). In this talk, we will explore the power of transformer-based LMs and how they can be used for various research tasks.
 
 This is a talk on Transformer-based Language Models, covering a range of topics including what language models are, why we need a new architecture for them, the components that make the Transformer architecture so powerful, the differences between Transformer-based Language Models, how to train a state-of-the-art transformer model for various research tasks, and the limits and open challenges of these new types of Language Models.
 
