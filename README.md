@@ -20,30 +20,26 @@ _This workshop is designed to introduce participants to Transformer-based Langua
 * Hands-on sessions to train SotA LMs
 * Limits and Open Challenges
 
-### Hands-on Sessions
+### 🤓 Hands-on Sessions
 This workshop includes three hands-on sessions using Google Colab:
 * Supervised Topic Classification: In this session, participants will learn how to train a supervised topic classification model using a pre-trained transformer-based language model.
 * Domain Adaptation: In this session, participants will learn how to fine-tune an existing language model to a specific domain by leveraging transfer learning techniques.
 * Zero-Shot NLI Classification: In this session, participants will learn how to use an existing transformer-based language model for zero-shot NLI classification.
 
-### Limitations and Open Challenges
+### 🦜 Limitations and Open Challenges
 As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed. Some of the current limitations and open challenges include:
 * Ethical considerations around the use of large-scale language models
 * Ensuring the models are robust and not easily fooled by adversarial attacks
 * The need for more diverse and inclusive training data to reduce biases in the models
 * Developing methods for more efficient training and inference with these large-scale models
 
-
 ### 📚 Additional Resources
 * HuggingFace Transformers Library
 * "Attention is All You Need" paper by Vaswani et al. (2017)
 * "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" paper by Devlin et al. (2018)
 
-
 ### 🤖 Authors
 Christopher Klamm
 
-
 #### 📝 License
 _This workshop is licensed under the MIT License._
-
