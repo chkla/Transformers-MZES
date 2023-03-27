@@ -27,16 +27,18 @@ This workshop includes three hands-on sessions using Google Colab:
 * Zero-Shot NLI Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing](https://colab.research.google.com/drive/1Big34S9VkknUnhccQR3v-Zo5-JVUhdAv?usp=sharing)): In this session, we will learn how to use an existing transformer-based language model for zero-shot NLI classification.
 
 ### 🦜 Limitations and Open Challenges
-As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed. Some of the current limitations and open challenges include:
+As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed (see [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)). Some of the current limitations and open challenges include:
+* Environmental impact 🌳 💨
 * Ethical considerations around the use of large-scale language models
 * Ensuring the models are robust and not easily fooled by adversarial attacks
 * The need for more diverse and inclusive training data to reduce biases in the models
+* Data privacy and security
 * Developing methods for more efficient training and inference with these large-scale models
+* Model Interpretability
 
 ### 📚 Additional Resources
 * HuggingFace Transformers Library
-* "Attention is All You Need" paper by Vaswani et al. (2017)
-* "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" paper by Devlin et al. (2018)
+* On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
 ### 🤖 Authors
 Christopher Klamm
