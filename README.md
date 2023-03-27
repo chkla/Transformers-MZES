@@ -26,14 +26,14 @@ This workshop includes three hands-on sessions using Google Colab:
 As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed (see [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)). Some of the current limitations and open challenges include:
 * Environmental impact 🌳 💨
 * Ethical considerations around the use of large-scale language models
-* Ensuring the models are robust and not easily fooled by adversarial attacks
-* The need for more diverse and inclusive training data to reduce biases in the models
-* Data privacy and security
-* Developing methods for more efficient training and inference with these large-scale models
-* Model Interpretability
+* Ensuring the models are robust and not easily fooled 👺 by adversarial attacks
+* The need for more diverse and inclusive training data 📚 to reduce biases in the models
+* Data privacy and security 🔒
+* Developing methods for more efficient training and inference with these large-scale models 👩🏾‍🎓
+* Model Interpretability 🔎
 
 ### 📚 Additional Resources
-* HuggingFace Transformers Library
+* [HuggingFace Transformers Library](https://huggingface.co)
 * On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
 ### 🤖 Authors
