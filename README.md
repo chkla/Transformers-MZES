@@ -52,7 +52,7 @@ As with any technology, Transformer-based Language Models have limitations and o
 * Model Interpretability 🔎
 
 ### 📚 Additional Resources
-* [HuggingFace Transformers Library](https://huggingface.co)
+* [HuggingFace Transformers Library](https://huggingface.co) ([Wolf et al. 2020](https://aclanthology.org/2020.emnlp-demos.6.pdf))
 * On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
 ### 🤖 Authors
