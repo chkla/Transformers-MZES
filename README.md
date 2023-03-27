@@ -3,16 +3,35 @@ Welcome to the transformer-based Language Models (LM) talk! You can find the sli
 
 This is a talk on Transformer-based Language Models, covering a range of topics including what language models are, why we need a new architecture for them, the components that make the Transformer architecture so powerful, the differences between Transformer-based Language Models, how to train a state-of-the-art transformer model for various research tasks, and the limits and open challenges of these new types of Language Models. Related questions for this talk:
 <details open>
-<summary>* 🤔 What are Language Models?</summary>
+<summary>🤔 What are Language Models?</summary>
 <br>
 Well you asked for it
 </details>
-
-* 🚀 Why do we need a new architecture (Transformer) for Language Models?
-* 🔧 What components make transformer architecture so powerful?
-* 🤖 What are the differences between transformer-based Language Models?
-* 🤓 How can we train a SotA transformer model for various research tasks?
-* 🤯 What are the limits and open challenges of these new types of Language Models?
+<details open>
+<summary>🚀 Why do we need a new architecture (Transformer) for Language Models?</summary>
+<br>
+Well you asked for it
+</details>
+<details open>
+<summary>🔧 What components make transformer architecture so powerful?</summary>
+<br>
+Well you asked for it
+</details>
+<details open>
+<summary>🤖 What are the differences between transformer-based Language Models?</summary>
+<br>
+Well you asked for it
+</details>
+<details open>
+<summary>🤓 How can we train a SotA transformer model for various research tasks?</summary>
+<br>
+Well you asked for it
+</details>
+<details open>
+<summary>🤯 What are the limits and open challenges of these new types of Language Models?</summary>
+<br>
+Well you asked for it
+</details>
 
 ### 📝 Workshop Structure
 * Introduction to Language Models
