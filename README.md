@@ -4,27 +4,27 @@ Welcome to the transformer-based Language Models (LM) talk! You can find the sli
 This is a talk on Transformer-based Language Models, covering a range of topics including what language models are, why we need a new architecture for them, the components that make the Transformer architecture so powerful, the differences between Transformer-based Language Models, how to train a state-of-the-art transformer model for various research tasks, and the limits and open challenges of these new types of Language Models. Related questions for this talk:
 <details><summary>🤔 What are Language Models?</summary>
 <br>
-Well you asked for it
+Language models are a type of machine learning model that can predict the probability of a sequence of words in a given context.
 </details>
 <details><summary>🚀 Why do we need a new architecture (Transformer) for Language Models?</summary>
 <br>
-Well you asked for it
+The Transformer architecture was introduced to overcome the limitations of previous models, such as Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks, in capturing long-term dependencies in text.
 </details>
 <details><summary>🔧 What components make transformer architecture so powerful?</summary>
 <br>
-Well you asked for it
+The Transformer architecture is made up of several key components, including self-attention mechanisms, multi-head attention, and feed-forward neural networks.
 </details>
 <details><summary>🤖 What are the differences between transformer-based Language Models?</summary>
 <br>
-Well you asked for it
+There are several different types of transformer-based language models, including autoregressive models like GPT-2 and GPT-3, and encoder-decoder models like BERT and RoBERTa.
 </details>
 <details><summary>🤓 How can we train a SotA transformer model for various research tasks?</summary>
 <br>
-Well you asked for it
+In this workshop, we will provide hands-on sessions with Colab for implementing a language model for supervised topic classification, a domain adaptation approach, and a zero-shot NLI classification with an existing model.
 </details>
 <details><summary>🤯 What are the limits and open challenges of these new types of Language Models?</summary>
 <br>
-Well you asked for it
+Despite their impressive performance on various tasks, transformer-based language models still face challenges such as data bias, explainability, and ethical concerns.
 </details>
 
 ### 📝 Workshop Structure
