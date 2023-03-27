@@ -17,14 +17,14 @@ _This workshop is designed to introduce participants to Transformer-based Langua
 * Introduction to Language Models
 * Transformer Architecture and Components
 * Differences between Transformer-Based Language Models
-* Hands-on sessions to train SotA LMs
+* Hands-on sessions to train LMs
 * Limits and Open Challenges
 
 ### 🤓 Hands-on Sessions
 This workshop includes three hands-on sessions using Google Colab:
-* Supervised Topic Classification: In this session, participants will learn how to train a supervised topic classification model using a pre-trained transformer-based language model.
-* Domain Adaptation: In this session, participants will learn how to fine-tune an existing language model to a specific domain by leveraging transfer learning techniques.
-* Zero-Shot NLI Classification: In this session, participants will learn how to use an existing transformer-based language model for zero-shot NLI classification.
+* Supervised Topic Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing): In this session, participants will learn how to train a supervised topic classification model using a pre-trained transformer-based language model.
+* Domain Adaptation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing): In this session, participants will learn how to fine-tune an existing language model to a specific domain by leveraging transfer learning techniques.
+* Zero-Shot NLI Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K9zkPIUBPCWaVgg4duuYKirOrxAID0wG?usp=sharing): In this session, participants will learn how to use an existing transformer-based language model for zero-shot NLI classification.
 
 ### 🦜 Limitations and Open Challenges
 As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed. Some of the current limitations and open challenges include:
