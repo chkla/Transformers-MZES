@@ -37,10 +37,7 @@ Despite their impressive performance on various tasks, transformer-based languag
 This workshop includes three hands-on sessions using Google Colab:
 * Supervised Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mxfxJ9rEMyxWP-L0aJL4JB0WhCPeFQxM?usp=sharing): In this session, we will learn how to use pre-trained transformer-based language model with HuggingFace 🤗 Pipelines.
 * Fine-Tuning a pre-trained Language Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R_pwYcaw3INGyf6hM9gNt_E_UGWp6BoN?usp=sharing) or the [Tutorial on BERT an Explainable AI](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/bert-explainable-ai/#bert-training) by Küpfer/Meyer (2023) : In this session, we will learn how to fine-tune an existing language model to a specific task.
-* Zero-Shot NLI Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jK_hD6XJDCEHnWj7yHyCOo8fmqjR3yx0?usp=sharing): In this session, we will learn how to use an existing transformer-based language model for zero-shot NLI classification (using the model trained by [Laurer et al. 2022](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli)).
-
-
-
+* Optional: Zero-Shot Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1jK_hD6XJDCEHnWj7yHyCOo8fmqjR3yx0?usp=sharing](https://colab.research.google.com/drive/1n8no7qfckIP-IrF2RNS8_AdRy0dok6bu?usp=sharing)): You can also check out the Tutorial by [Laurer et al. 2022](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli) on how to use an existing transformer-based language model for zero-shot NLI classification.
 
 ### 🦜 Limitations and Open Challenges
 As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed (see [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)). Some of the current limitations and open challenges:
