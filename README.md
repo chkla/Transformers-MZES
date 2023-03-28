@@ -51,9 +51,10 @@ As with any technology, Transformer-based Language Models have limitations and o
 * Developing methods for more efficient training and inference with these large-scale models 👩🏾‍🎓
 * Model Interpretability 🔎
 
-### 📚 Additional Resources
+### 📚 Additional Resources/ Tools
 * [HuggingFace Transformers Library](https://huggingface.co) ([Wolf et al. 2020](https://aclanthology.org/2020.emnlp-demos.6.pdf))
 * On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)
+* [OpenAi/ChatGPT-Retrieval-Plugins](https://github.com/openai/chatgpt-retrieval-plugin) e.g., Retrieval Plugin that has access to the UN Annual Reports from 2018 to 2022 [Video](https://cdn.openai.com/chat-plugins/retrieval-gh-repo-readme/Retrieval-Final.mp4)
 
 ### 👤 Author
 Christopher Klamm
