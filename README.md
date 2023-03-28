@@ -1,7 +1,5 @@
 # 🤖 Transformer-Based Language Models (Input Talk @ Method Bits, MZES, UMannheim)
-Welcome to the transformer-based Language Models (LM) talk! You can find the slides for the talk here [![Google Slides](https://img.shields.io/badge/Slides-yellow?logo=google-slides)](https://docs.google.com/presentation/d/1py8jRKvNZXCrCCwtAtwgewMHEDM7d1iKI7E4cA_sgt0/edit?usp=sharing). In this talk, we will explore the power of transformer-based LMs and how they can be used for various research tasks.
-
-This is a talk on Transformer-based Language Models, covering a range of topics including what language models are, why we need a new architecture for them, the components that make the Transformer architecture so powerful, the differences between Transformer-based Language Models, how to train a state-of-the-art transformer model for various research tasks, and the limits and open challenges of these new types of Language Models. Related questions for this talk:
+Welcome to the transformer-based Language Models (LM) talk! You can find the slides of the talk here [![Google Slides](https://img.shields.io/badge/Slides-yellow?logo=google-slides)](https://docs.google.com/presentation/d/1py8jRKvNZXCrCCwtAtwgewMHEDM7d1iKI7E4cA_sgt0/edit?usp=sharing). In this talk, we covering a winde range of topics including what language models are, why we need a new architecture for them, the components that make the Transformer architecture so powerful, the differences between Transformer-based Language Models, how to train a state-of-the-art transformer model for various research tasks, and the limits and open challenges of these new types of Language Models. Questions for this talk:
 <details><summary>🤔 *What are Language Models?*</summary>
 <br>
 Language models are a type of machine learning model that can predict the probability of a sequence of words in a given context.
@@ -42,7 +40,7 @@ This workshop includes three hands-on sessions using Google Colab:
 * Zero-Shot NLI Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jK_hD6XJDCEHnWj7yHyCOo8fmqjR3yx0?usp=sharing): In this session, we will learn how to use an existing transformer-based language model for zero-shot NLI classification (using the model trained by [Laurer et al. 2022](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli)).
 
 ### 🦜 Limitations and Open Challenges
-As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed (see [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)). Some of the current limitations and open challenges include:
+As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed (see [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)). Some of the current limitations and open challenges:
 * Environmental impact 🌳 💨
 * Ethical considerations around the use of large-scale language models
 * Ensuring the models are robust and not easily fooled 👺 by adversarial attacks
