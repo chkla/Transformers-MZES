@@ -58,4 +58,4 @@ As with any technology, Transformer-based Language Models have limitations and o
 Christopher Klamm
 
 #### 📝 License
-_This workshop is licensed under the MIT License._
+_This talk is licensed under the MIT License._
