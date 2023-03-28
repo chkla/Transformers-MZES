@@ -20,11 +20,11 @@ There are several different types of transformer-based language models, includin
 </details>
 <details><summary>🤓 *How can we train a SotA transformer model for various research tasks?*</summary>
 <br>
-In this workshop, we will provide hands-on sessions with Colab for implementing a language model for supervised topic classification, a domain adaptation approach, and a zero-shot NLI classification with an existing model.
+In this talk, we will provide hands-on sessions with Colab for implementing a language model for supervised topic classification, a domain adaptation approach, and a zero-shot NLI classification with an existing model.
 </details>
 <details><summary>🤯 *What are the limits and open challenges of these new types of Language Models?*</summary>
 <br>
-Despite their impressive performance on various tasks, transformer-based language models still face challenges such as data bias, explainability, and ethical concerns.
+Despite their impressive performance on various tasks, transformer-based language models still face challenges such as data bias, explainability, ethical concerns and many more [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922).
 </details>
 
 
