@@ -30,7 +30,7 @@ Despite their impressive performance on various tasks, transformer-based languag
 * Introduction to Language Models
 * Transformer Architecture and Components
 * Differences between Transformer-Based Language Models
-* Hands-on sessions to train LMs
+* Hands-on sessions with HuggingFace 🤗
 * Limits and Open Challenges
 
 ### 🤓 Hands-on Sessions
