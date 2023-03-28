@@ -22,7 +22,7 @@ In this talk, we will provide hands-on sessions with Colab for implementing a la
 </details>
 <details><summary>🤯 *What are the limits and open challenges of these new types of Language Models?*</summary>
 <br>
-Despite their impressive performance on various tasks, transformer-based language models still face challenges such as data bias, explainability, ethical concerns and many more [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922).
+Despite their impressive performance on various tasks, transformer-based language models still face challenges such as data bias, explainability, ethical concerns and many more.
 </details>
 
 
