@@ -60,6 +60,11 @@ As with any technology, Transformer-based Language Models have limitations and o
 * Wang et al. (2022) "SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions" [[Paper](https://arxiv.org/pdf/2212.10560.pdf)]
 * Gilardi et al. (2023) "ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks" [[Paper](https://arxiv.org/pdf/2303.15056.pdf)]
 * Dai et al. (2023) "AugGPT: Leveraging ChatGPT for Text Data Augmentation" [[Paper](https://arxiv.org/pdf/2302.13007.pdf)]
+* Reiss (2023) "Testing the Reliability of ChatGPT for Text Annotation and Classification: A Cautionary Remark" [[Paper](https://www.dropbox.com/s/3z7okruhft74o1a/ChatGPT_Reliability_0405.pdf?dl=0)]
+* Kuzman et al. (2023) "ChatGPT: Beginning of an End of Manual Linguistic Data Annotation? Use Case of Automatic Genre Identification" [[Paper](https://www.semanticscholar.org/reader/31f44f0f2124c54e47f4df54dec63118232c25da)]
+* Luccioni et al. (2022) "ESTIMATING THE CARBON FOOTPRINT OF BLOOM, A 176B PARAMETER LANGUAGE MODEL" [[Paper](https://arxiv.org/pdf/2211.02001.pdf)]
+* Levy et al. (2022): "SAFETEXT: A Benchmark for Exploring Physical Safety in Language Models" [[Paper](https://arxiv.org/pdf/2210.10045.pdf)]
+* Bubeck et al. (2023) "Sparks of Artificial General Intelligence: Early experiments with GPT-4" [[Paper](https://arxiv.org/pdf/2303.12712.pdf)]
 * ... and many more!
 
 ### Tools
@@ -67,6 +72,7 @@ As with any technology, Transformer-based Language Models have limitations and o
 * [HuggingFace Transformers Library](https://huggingface.co) ([Wolf et al. 2020](https://aclanthology.org/2020.emnlp-demos.6.pdf))
 * "A platform helps you streamline your ML workflow from end to end" [[Web](https://wandb.ai/home)]
 * LangChain (2023) "Framework for developing applications" [[Code](https://github.com/hwchase17/langchain)]
+* Taori et al. (2023) "Alpaca: A Strong, Replicable Instruction-Following Model" [[Paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)]
 * ... and many more!
 
 ### Additional Ressources
