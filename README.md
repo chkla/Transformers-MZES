@@ -79,17 +79,8 @@ As with any technology, Transformer-based Language Models have limitations and o
 ### Additional Ressources
 * Standards/ Guidelines ➡️ https://github.com/chkla/NLP-Standards
 
-## 👤 Author
+#### 👤 Author
 Christopher Klamm
 
-```
-@article{Transformers_Input_Talk_2023,
-author = {Klamm, Christopher},
-journal = {https://github.com/chkla/Transformers-MZES},
-title = {{Transformer-based Language Models}},
-year = {2023}
-}
-```
-
-### 📝 License
+#### 📝 License
 _This talk is licensed under the MIT License._
