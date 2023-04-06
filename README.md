@@ -56,6 +56,10 @@ As with any technology, Transformer-based Language Models have limitations and o
 * Strubell et al. (2019) "Energy and Policy Considerations for Deep Learning in NLP" [[Paper](https://aclanthology.org/P19-1355.pdf)]
 * Devlin et al. (2019) "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [[Paper](https://aclanthology.org/P19-1355.pdf)]
 * Bender et al. (2021) "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" 🦜 [[Paper](https://dl.acm.org/doi/10.1145/3442188.3445922)]
+* Brown et al. (2020) "Language Models are Few-Shot Learners" [[Paper](https://arxiv.org/pdf/2005.14165.pdf)]
+* Wang et al. (2022) "SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions" [[Paper](https://arxiv.org/pdf/2212.10560.pdf)]
+* Gilardi et al. (2023) "ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks" [[Paper](https://arxiv.org/pdf/2303.15056.pdf)]
+* Dai et al. (2023) "AugGPT: Leveraging ChatGPT for Text Data Augmentation" [[Paper](https://arxiv.org/pdf/2302.13007.pdf)]
 * ... and many more!
 
 ### Tools
