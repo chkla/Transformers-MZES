@@ -1,28 +1,29 @@
 # 🤖 Transformer-Based Language Models (Input Talk @ Method Bits, MZES, UMannheim)
 Welcome to the transformer-based Language Models (LMs) talk! You can find the slides of the talk here [![Google Slides](https://img.shields.io/badge/Slides-yellow?logo=google-slides)](https://docs.google.com/presentation/d/1eUmChBbDBaENQWVBBmytAiB7xpioPz2325-znhxB4xs/edit?usp=sharing). In this talk, we covering a winde range of topics including what language models are, why we need a new architecture for them, the components that make the Transformer architecture so powerful, the differences between Transformer-based Language Models, how to train a state-of-the-art transformer model for various research tasks, and the limits and open challenges of these new types of Language Models. Questions for this talk:
+
 <details><summary>🤔 *What are Language Models?*</summary>
 <br>
-Language models are a type of machine learning model that can predict the probability of a sequence of words in a given context.
+Language models are a specific type of machine learning model designed to predict the likelihood of word sequences in a given context. They are crucial in a variety of natural language processing tasks such as machine translation, speech recognition, and text generation.
 </details>
 <details><summary>🚀 *Why do we need a new architecture (Transformer) for Language Models?*</summary>
 <br>
-The Transformer architecture was introduced to overcome the limitations of previous models, such as Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks, in capturing long-term dependencies in text.
+The Transformer architecture was developed to address the limitations of previous models like Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks. These earlier models struggled with capturing long-term dependencies in text due to their sequential nature. Transformers, with their parallel processing capabilities and innovative self-attention mechanisms, excel at handling longer-range dependencies and offer significant performance improvements.
 </details>
-<details><summary>🔧 *What components make transformer architecture so powerful?*</summary>
+<details><summary>🔧 *What components make the Transformer architecture so powerful?*</summary>
 <br>
-The Transformer architecture is made up of several key components, including self-attention mechanisms, multi-head attention, and feed-forward neural networks.
+The Transformer architecture's power comes from several key components, such as self-attention mechanisms that weigh the importance of words within a context, multi-head attention that allows the model to focus on different aspects of the input simultaneously, and feed-forward neural networks that process and generate the output. These components, combined with positional encoding, enable the architecture to handle large-scale language modeling tasks effectively.
 </details>
 <details><summary>🤖 *What are the differences between transformer-based Language Models?*</summary>
 <br>
-There are several different types of transformer-based language models, including autoregressive models like GPT-2 and GPT-3, and encoder-decoder models like BERT and RoBERTa.
+There are various types of transformer-based language models, each with unique characteristics. Autoregressive models like GPT-2 and GPT-3 generate text by predicting one word at a time, while encoder-decoder models like BERT and RoBERTa use masked language modeling to pre-train on large corpora before fine-tuning for specific tasks. These models differ in their architecture, training data, and objectives, resulting in different strengths and weaknesses.
 </details>
-<details><summary>🤓 *How can we train a SotA transformer model for various research tasks?*</summary>
+<details><summary>🤓 *How can we train a state-of-the-art Transformer model for various research tasks?*</summary>
 <br>
-In this talk, we will provide hands-on sessions with Colab for implementing a language model for supervised topic classification, a domain adaptation approach, and a zero-shot NLI classification with an existing model.
+To train a state-of-the-art Transformer model for research tasks, we will provide hands-on sessions using Google Colab. These sessions will cover implementing a language model for supervised topic classification, a domain adaptation approach, and zero-shot NLI classification with an existing pre-trained model. By following these sessions, you will gain practical experience in fine-tuning Transformer models for various tasks.
 </details>
 <details><summary>🤯 *What are the limits and open challenges of these new types of Language Models?*</summary>
 <br>
-Despite their impressive performance on various tasks, transformer-based language models still face challenges such as data bias, explainability, ethical concerns and many more.
+Transformer-based language models still face several challenges. These include data bias, which may result in biased predictions, limited explainability that makes it difficult to understand model decisions, and ethical concerns surrounding their potential misuse. Other challenges include computational resource requirements, the need for large-scale training data, and difficulty in handling tasks that require common sense or deep reasoning.
 </details>
 
 
@@ -70,7 +71,7 @@ As with any technology, Transformer-based Language Models have limitations and o
 ### Tools
 * [OpenAi/ChatGPT-Retrieval-Plugins](https://github.com/openai/chatgpt-retrieval-plugin) e.g., Retrieval Plugin that has access to the UN Annual Reports from 2018 to 2022 [Video](https://cdn.openai.com/chat-plugins/retrieval-gh-repo-readme/Retrieval-Final.mp4)
 * [HuggingFace Transformers Library](https://huggingface.co) ([Wolf et al. 2020](https://aclanthology.org/2020.emnlp-demos.6.pdf))
-* "A platform helps you streamline your ML workflow from end to end" [[Web](https://wandb.ai/home)]
+* WandB "A platform helps you streamline your ML workflow from end to end" [[Web](https://wandb.ai/home)]
 * LangChain (2023) "Framework for developing applications" [[Code](https://github.com/hwchase17/langchain)]
 * Taori et al. (2023) "Alpaca: A Strong, Replicable Instruction-Following Model" [[Paper](https://crfm.stanford.edu/2023/03/13/alpaca.html)]
 * ... and many more!
