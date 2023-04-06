@@ -41,7 +41,7 @@ This workshop includes three hands-on sessions using Google Colab:
 * Optional: Zero-Shot Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n8no7qfckIP-IrF2RNS8_AdRy0dok6bu?usp=sharing): You can also check out the Tutorial by [Laurer et al. 2022](https://colab.research.google.com/drive/1-y7o-QRWp-OwGMe64CxQwQk2-o2jZFm3?usp=sharing) on how to train an existing transformer-based language model for zero-shot NLI classification.
 
 ### 🦜 Limitations and Open Challenges
-As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed (see [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)). Some of the current limitations and open challenges:
+As with any technology, Transformer-based Language Models have limitations and open challenges that need to be addressed (see [Strubell et al. 2019](https://aclanthology.org/P19-1355.pdf), [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922), [Gebru et al. 2022](https://arxiv.org/pdf/1803.09010.pdf), [Levy et al. 2022](https://arxiv.org/pdf/2210.10045.pdf), etc.). Some of the current limitations and open challenges:
 * Environmental impact 🌳 💨
 * Ethical considerations around the use of large-scale language models
 * Ensuring the models are robust and not easily fooled 👺 by adversarial attacks
@@ -49,6 +49,7 @@ As with any technology, Transformer-based Language Models have limitations and o
 * Data privacy and security 🔒
 * Developing methods for more efficient training and inference with these large-scale models 👩🏾‍🎓
 * Model Interpretability 🔎
+* ... and many more!
 
 ## 📚 Additional Resources/ Tools/ Literature
 ### Literature
