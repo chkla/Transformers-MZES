@@ -47,7 +47,7 @@ As with any technology, Transformer-based Language Models have limitations and o
 * Ensuring the models are robust and not easily fooled 👺 by adversarial attacks
 * The need for more diverse and inclusive training data 📚 to reduce biases in the models
 * Data privacy and security 🔒
-* Developing methods for more efficient training and inference with these large-scale models 👩🏾‍🎓
+* Developing methods for more efficient training and inference with these large-scale models 🚀
 * Model Interpretability 🔎
 * ... and many more!
 
