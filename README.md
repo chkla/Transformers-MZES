@@ -27,7 +27,7 @@ Transformer-based language models still face several challenges. These include d
 </details>
 
 
-### 📝 Workshop Structure
+### 📝 Roadmap
 * Introduction to Language Models
 * Transformer Architecture and Components
 * Differences between Transformer-Based Language Models
