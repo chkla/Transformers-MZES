@@ -50,18 +50,33 @@ As with any technology, Transformer-based Language Models have limitations and o
 * Model Interpretability 🔎
 
 ### 📚 Additional Resources/ Tools/ Literature
+## Literature
 * Alammar (2023) "What a time for language models" [[Blog](https://jayalammar.substack.com/p/what-a-time-for-language-models?utm_source=twitter&utm_campaign=auto_share&r=27wcsl)]
 * Walsh (2021) "The BERT for Humanists Project" [[Blog](http://www.bertforhumanists.org)]
 * Strubell et al. (2019) "Energy and Policy Considerations for Deep Learning in NLP" [[Paper](https://aclanthology.org/P19-1355.pdf)]
+* Devlin et al. (2019) "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [[Paper](https://aclanthology.org/P19-1355.pdf)]
 * https://wandb.ai/home
-* [HuggingFace Transformers Library](https://huggingface.co) ([Wolf et al. 2020](https://aclanthology.org/2020.emnlp-demos.6.pdf))
 * On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜 [Bender et al. 2021](https://dl.acm.org/doi/10.1145/3442188.3445922)
+* and many more!
+
+## Tools
 * [OpenAi/ChatGPT-Retrieval-Plugins](https://github.com/openai/chatgpt-retrieval-plugin) e.g., Retrieval Plugin that has access to the UN Annual Reports from 2018 to 2022 [Video](https://cdn.openai.com/chat-plugins/retrieval-gh-repo-readme/Retrieval-Final.mp4)
+* [HuggingFace Transformers Library](https://huggingface.co) ([Wolf et al. 2020](https://aclanthology.org/2020.emnlp-demos.6.pdf))
+
+## Additional Ressources
 * Standards/ Guidelines ➡️ https://github.com/chkla/NLP-Standards
-* 
 
 ### 👤 Author
 Christopher Klamm
+
+```
+@article{Transformers_Input_Talk_2023,
+author = {Klamm, Christopher},
+journal = {https://github.com/chkla/Transformers-MZES},
+title = {{Transformer-based Language Models}},
+year = {2023}
+}
+```
 
 #### 📝 License
 _This talk is licensed under the MIT License._
